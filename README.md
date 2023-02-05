@@ -13,7 +13,7 @@ Numpy:
 Matplotlib:
 github file:https://raw.githubusercontent.com/CodexploreRepo/data-science/main/Code/A4_Matplotlib/data/california_cities.csv
 
-Seaborn:
-
+Seaborn: 
+github file: https://raw.githubusercontent.com/CodexploreRepo/data-science/main/Code/A6_Seaborn/data/cereal.csv
 
 Scikit-Learn:
