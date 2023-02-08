@@ -16,5 +16,7 @@ github file:https://raw.githubusercontent.com/CodexploreRepo/data-science/main/C
 Seaborn: 
 github file: https://raw.githubusercontent.com/CodexploreRepo/data-science/main/Code/A6_Seaborn/data/cereal.csv
 
-Scikit-Learn:
+Scikit-Learn- part 1:
 github file: https://raw.githubusercontent.com/CodexploreRepo/data-science/main/Code/P01_Pre_Processing/Data.csv
+Scikit-Learn- part 2: 
+github file: https://raw.githubusercontent.com/dataprofessor/data/master/delaney_solubility_with_descriptors.csv
